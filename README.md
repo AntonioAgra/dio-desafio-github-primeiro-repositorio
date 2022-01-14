@@ -6,20 +6,20 @@ Desafio Repositorio Git/Github
 |-----------------------------------------|
 
 1. 
-> Estou tentando
-> Continuo todos os dias 
-> Sempre disposto a aprender 
-> Aqui estou eu! Me note!
+- Estou tentando
+- Continuo todos os dias 
+- Sempre disposto a aprender 
+- Aqui estou eu! Me note!
 
 2. 
-> Mãos a obra! 
-> Auto Aperfeiçoamento SEMPRE!
-> Disposição!
+- Mãos a obra! 
+- Auto Aperfeiçoamento SEMPRE!
+- Disposição!
 
 3. 
-> Não sou um rockstar! 
-> Mas se trantando sou campeão ;)
-> Vamos a luta!
+- Não sou um rockstar! 
+- Mas se trantando sou campeão ;)
+- Vamos a luta!
 
 |-------------------------------------------|
 
@@ -29,4 +29,4 @@ Desafio Repositorio Git/Github
 
 [GANHEI?](https://www.youtube.com/watch?v=m3WIX1P_2AY)
 
-- kkk... *Risos* - :joy: 
+>  kkk... *Risos* - :joy: 
